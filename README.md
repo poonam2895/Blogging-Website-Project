@@ -1,2 +1,2 @@
-# DBMSproject
+# Blogging Website
 College project
